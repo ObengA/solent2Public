@@ -41,3 +41,4 @@ nb-configuration.xml
 # Log files
 derby.log
 
+/myPracticeCourseWork/week1/maven-test-exercise/example1/target.gitignore/
